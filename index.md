@@ -1,37 +1,90 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 
-You can use the [editor on GitHub](https://github.com/SDLZY/sdlzy.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<title>Zhenyang Li's Homepage</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<link rel="stylesheet" type="text/css" href="show.css" media="screen" />
+</head>
 
-### Markdown
+<body>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<table border="0" cellpadding="0" cellspacing="0" width="930" align="center" bgcolor="#FFFFFF">
+<tr valign="bottom">
+<td width="930">
 
-```markdown
-Syntax highlighted code block
+<table border="0" cellpadding="1" cellspacing="1">
+<tbody><tr>
+<td>
+<img src="xianjinghan_.jpg" align="RIGHT" hspace="5" height="200">
+</td>
+<td >
+<td colspan="5"><font size="4" face="Times New Roman">
+<strong>Zhenyang Li, 李振阳</strong><br><br>
 
-# Header 1
-## Header 2
-### Header 3
+Ph. D Candidate<br>
+Department of Computer Science and Technology,<br>
+Shandong University<br><br>
 
-- Bulleted
-- List
+E-mail: hanxianjing2018@gmail.com <br>
+Research Area: Multimedia, Computer Vision <br>
+<a href="https://scholar.google.com/citations?user=kxD8RqQAAAAJ&hl=zh-CN">Google Scholar
+</td><td>
+</td></tr>
+</tbody></table>
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+  <tr>
+  <td bgcolor="#088A85" colspan="5"><span style="FONT-SIZE: 18pt; FONT-WEIGHT: 300"><a name="·Biography"><font color="#ffffff">Biography </font></a></span></td></tr>
+  <tr>
+  <td colspan="5"><font size="4" face="Times New Roman"><br><strong>Xianjing Han</strong> is currently a Ph.D candidate in Department of Computer Science and Technology at Shandong University, 
+  under the supervision of Prof. <a href="http://liqiangnie.github.io/">Liqiang Nie</a> and Dr. <a href="http://xuemengsong.github.io">Xuemeng Song</a>.
+  She is a Visiting Scholar in Department of Computer Science at Texas State University, in 2019-2020, under the supervision of Dr. <a href="https://userweb.cs.txstate.edu/~y_y34/">Yan Yan</a>. 
+  She received her B.E. degree from Northeastern University, China, in 2017. Her works focus on the fashion analysis and video understanding.
+  </font><font size="4" face="Times New Roman"><br>&nbsp;</font></td></tr>
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+  <tr>
+  <td bgcolor="#088A85" colspan="5"><span style="FONT-SIZE: 18pt; FONT-WEIGHT: 300"><a name="·Publications"><font color="#ffffff">Publications
+  </font></a></span></td></tr>
+  <tr>
+  <td colspan="0"> <font size="4" face="Times New Roman">
+  <ol>
+		
+    
+<li><strong>Neural Compatibility Modeling with Probabilistic Knowledge Distillation</strong>.<br>
+Xianjing Han, Xuemeng Song, Yiyang Yao, Xin-Shun Xu and Liqiang Nie.
+In IEEE Transactions on Image Processing, 2019. <a href="tip2019.pdf">Pdf</a>&nbsp;&nbsp;
+<a href="https://tinyurl.com/y7pftrj7/">Code</a>
+</li><br>		
 
-### Jekyll Themes
+	  
+<li><strong>Prototype-guided Attribute-wise Interpretable Scheme for Clothing Matching</strong>.<br>
+Xianjing Han, Xuemeng Song, Jianhua Yin, Yinglong Wang and Liqiang Nie. 
+In ACM SIGIR, 2019. <a href="sigir2019.pdf">Pdf</a>&nbsp;&nbsp;
+<a href="https://anonymity2019.wixsite.com/paicm/">Code</a>
+</li><br>
+	  
+    
+<li><strong>GP-BPR: Personalized Compatibility Modeling for Clothing Matching</strong>.<br>
+Xuemeng Song, Xianjing Han, Yunkai Li, Jingyuan Chen, Xin-Shun Xu and Liqiang Nie.
+In ACM MM, 2019. <a href="mm2019.pdf">Pdf</a>&nbsp;&nbsp;
+<a href="https://anonymity2019.wixsite.com/gp-bpr/">Code</a>
+</li>
+<br>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SDLZY/sdlzy.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+	  
+<li><strong> Neural Compatibility Modeling with Attentive Knowledge
+Distillation</strong>.<br> 
+Xuemeng Song, Fuli Feng, Xianjing Han, Xin Yang, Liqiang Nie, Wei Liu. 
+In ACM SIGIR, 2018. <a href="sigir2018.pdf">Pdf</a>&nbsp;&nbsp;
+<a href="AKD-DBPR.rar">Code</a> 
+</li>
+	
+</div>
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</div>
+	  
+</body>
+</html>
