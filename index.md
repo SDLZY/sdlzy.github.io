@@ -33,58 +33,6 @@ Research Area: Multimedia, Computer Vision <br>
 </td><td>
 </td></tr>
 </tbody></table>
-
-
-  <tr>
-  <td bgcolor="#088A85" colspan="5"><span style="FONT-SIZE: 18pt; FONT-WEIGHT: 300"><a name="·Biography"><font color="#ffffff">Biography </font></a></span></td></tr>
-  <tr>
-  <td colspan="5"><font size="4" face="Times New Roman"><br><strong>Xianjing Han</strong> is currently a Ph.D candidate in Department of Computer Science and Technology at Shandong University, 
-  under the supervision of Prof. <a href="http://liqiangnie.github.io/">Liqiang Nie</a> and Dr. <a href="http://xuemengsong.github.io">Xuemeng Song</a>.
-  She is a Visiting Scholar in Department of Computer Science at Texas State University, in 2019-2020, under the supervision of Dr. <a href="https://userweb.cs.txstate.edu/~y_y34/">Yan Yan</a>. 
-  She received her B.E. degree from Northeastern University, China, in 2017. Her works focus on the fashion analysis and video understanding.
-  </font><font size="4" face="Times New Roman"><br>&nbsp;</font></td></tr>
-
-
-  <tr>
-  <td bgcolor="#088A85" colspan="5"><span style="FONT-SIZE: 18pt; FONT-WEIGHT: 300"><a name="·Publications"><font color="#ffffff">Publications
-  </font></a></span></td></tr>
-  <tr>
-  <td colspan="0"> <font size="4" face="Times New Roman">
-  <ol>
-		
-    
-<li><strong>Neural Compatibility Modeling with Probabilistic Knowledge Distillation</strong>.<br>
-Xianjing Han, Xuemeng Song, Yiyang Yao, Xin-Shun Xu and Liqiang Nie.
-In IEEE Transactions on Image Processing, 2019. <a href="tip2019.pdf">Pdf</a>&nbsp;&nbsp;
-<a href="https://tinyurl.com/y7pftrj7/">Code</a>
-</li><br>		
-
-	  
-<li><strong>Prototype-guided Attribute-wise Interpretable Scheme for Clothing Matching</strong>.<br>
-Xianjing Han, Xuemeng Song, Jianhua Yin, Yinglong Wang and Liqiang Nie. 
-In ACM SIGIR, 2019. <a href="sigir2019.pdf">Pdf</a>&nbsp;&nbsp;
-<a href="https://anonymity2019.wixsite.com/paicm/">Code</a>
-</li><br>
-	  
-    
-<li><strong>GP-BPR: Personalized Compatibility Modeling for Clothing Matching</strong>.<br>
-Xuemeng Song, Xianjing Han, Yunkai Li, Jingyuan Chen, Xin-Shun Xu and Liqiang Nie.
-In ACM MM, 2019. <a href="mm2019.pdf">Pdf</a>&nbsp;&nbsp;
-<a href="https://anonymity2019.wixsite.com/gp-bpr/">Code</a>
-</li>
-<br>
-
-	  
-<li><strong> Neural Compatibility Modeling with Attentive Knowledge
-Distillation</strong>.<br> 
-Xuemeng Song, Fuli Feng, Xianjing Han, Xin Yang, Liqiang Nie, Wei Liu. 
-In ACM SIGIR, 2018. <a href="sigir2018.pdf">Pdf</a>&nbsp;&nbsp;
-<a href="AKD-DBPR.rar">Code</a> 
-</li>
-	
-</div>
-
-</div>
 	  
 </body>
 </html>
